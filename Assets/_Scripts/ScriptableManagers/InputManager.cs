@@ -28,6 +28,9 @@ namespace _Scripts
         private void OnDisable()
         {
             _controls.Player.Disable();
+            _controls.Player.Move.performed -= Move;
+            _controls.Player.Move.canceled -= Move;
+            _controls.Player.Jump.performed -= Jump;
         }
 
         private void Jump(InputAction.CallbackContext context)
