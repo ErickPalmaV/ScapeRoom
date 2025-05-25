@@ -6,8 +6,35 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Scenes/FinalVersion/Main.unity
+    guid: ce08d4f02066bd040be16765f9a343af
+  - enabled: 1
+    path: Assets/Scenes/FinalVersion/Cuarto de Proyeccion.unity
+    guid: 8e144fb73a1e99543995c2020813cdd3
+  - enabled: 1
+    path: Assets/Scenes/FinalVersion/Estudio del Set.unity
+    guid: 2bd6d40370a26d0458d73e61ab482f0a
+  - enabled: 1
+    path: Assets/Scenes/FinalVersion/EstudioSonido.unity
+    guid: 4043fc776b39f1a44a50883d465adf8b
+  - enabled: 1
+    path: Assets/Scenes/FinalVersion/FinalSet.unity
+    guid: e92bd00117fb062498a9d517a87a2daf
+  - enabled: 1
+    path: Assets/Scenes/FinalVersion/OfficeManager.unity
+    guid: f9358bf334ef2ac44b144e828eecde3b
+  - enabled: 1
+    path: Assets/Scenes/FinalVersion/Pasillo L.unity
+    guid: 0a4a3d0225df1264a9a80d9c1f9dd7d6
+  - enabled: 1
+    path: Assets/Scenes/FinalVersion/Pasillo Recto.unity
+    guid: a143be8921d0b8442bdeb27be7b2ca8b
+  - enabled: 1
+    path: Assets/Scenes/FinalVersion/Sala Bocetos.unity
+    guid: bf60cde368f14554f9882a33dcbbbdbc
+  - enabled: 1
+    path: Assets/Scenes/FinalVersion/Sala de Proyeccion.unity
+    guid: 96244d852e503eb4bb8369503e924129
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
